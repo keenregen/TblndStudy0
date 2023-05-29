@@ -5,6 +5,7 @@
     "hardhat": "^2.14.0"
   },
   "dependencies": {
+    "@openzeppelin/contracts": "^4.9.0",
     "@tableland/evm": "^4.2.2",
     "@tableland/hardhat": "^0.0.4",
     "@tableland/sdk": "^4.3.0",
