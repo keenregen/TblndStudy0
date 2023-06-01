@@ -21,7 +21,7 @@ module.exports = {
   networks: {
     "polygon_mumbai": {
       url: "https://rpc-mumbai.maticvigil.com",
-      accounts: [process.env.PRIVATE_KEY]
+      accounts: [process.env.key0]
       },
       },
 };
